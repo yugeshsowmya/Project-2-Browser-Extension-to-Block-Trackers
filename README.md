@@ -1,6 +1,6 @@
-# Project-2-Simple-Tracker-Blocker-Chrome-Extension
+# Project-2-Browser Extension to Block Trackers
 ## Project Overview
-Simple Tracker Blocker is a lightweight Chrome browser extension that helps users improve their online privacy by blocking common tracking and advertising scripts on websites. The extension monitors network requests and blocks known tracker domains such as Google Ads and DoubleClick, preventing unnecessary tracking.
+Browser Extension to Block Trackers is a lightweight Chrome browser extension that helps users improve their online privacy by blocking common tracking and advertising scripts on websites. The extension monitors network requests and blocks known tracker domains such as Google Ads and DoubleClick, preventing unnecessary tracking.
 This project demonstrates basic concepts of browser extensions, web privacy, and network request interception using Chrome Extension APIs.
 
 ## Objectives
